@@ -1,0 +1,61 @@
+
+.top-detail{
+    background-color: blue;
+    border-radius: 10px;
+    height: 290px;
+    width: 100%;
+    display: flex !important;
+}
+.banner-dynamic{
+    background-position:right;
+    background-repeat: no-repeat;
+   width: 100vw;
+   height: 200px;
+}
+.main-div{
+    padding-top: 30px;
+    background-color: black;
+    color: aliceblue;
+}
+.explore-details{
+   
+    margin-left: 122px;
+    margin-right: 150px;
+}
+.details{
+    margin: 15px 15px 15px 15px;
+    margin-right: 350px;
+}
+.icons{
+    display: flex;
+    margin-left: 300px;
+    
+}
+.icon-sizing{
+    margin-top: 30px;
+    margin-left: 60px;
+    padding-bottom: 30px;
+    font-size: 35px;
+}
+.description{
+    padding-top: 30px;
+}
+#trophy{
+    margin-left: 20px;
+}
+#fanart{
+    width: 400px;
+    height: 180px;
+}
+.banner-dynamic img{
+    height: 200px;
+    width: 150px;
+}
+.genderImage{
+    margin-left: -80px;
+    margin-top: 22px;
+    height: 220px;
+}
+.banner-badge{
+    display: flex;
+}

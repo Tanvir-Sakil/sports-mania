@@ -1,0 +1,18 @@
+.Home{
+    padding-left: 7%;
+     padding-bottom: 45px;
+     margin-bottom: 3px;
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+   
+}
+.banner{
+    height: 350px; 
+    margin-bottom: 50px;
+    
+}
+
+h1{
+    text-align: center;
+    color: rgb(248, 224, 3);
+}
